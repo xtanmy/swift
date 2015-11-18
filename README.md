@@ -3,9 +3,9 @@
 Swift is an easy-to-use, annotation-based Java library for creating Thrift
 serializable types and services.
 
-# Swift Codec
-
 Edit by zhangyifan.
+
+# Swift Codec
 
 [Swift Codec](swift-codec) is a simple library specifying how Java
 objects are converted to and from Thrift.  This library is similar to JaxB
